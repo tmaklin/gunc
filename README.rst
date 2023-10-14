@@ -21,7 +21,7 @@
         :target: https://choosealicense.com/licenses/gpl-3.0/
 
 
-
+This is a fork of GUNC that merges some of the pull request in the main repository since the original does not seem to be maintained anymore.
 
 Python package for detection of chimerism and contamination in prokaryotic genomes.
 
